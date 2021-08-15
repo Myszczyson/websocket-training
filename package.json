@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "name": "websocket_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Myszczyson/websocket_2.git",
+  "author": "Dawid Myszczynski <myszczym@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
